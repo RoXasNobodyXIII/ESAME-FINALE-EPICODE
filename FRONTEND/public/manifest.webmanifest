@@ -1,0 +1,21 @@
+{
+  "name": "Croce d'Oro Sud Pontino",
+  "short_name": "Croce d'Oro",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#03347D",
+  "theme_color": "#03347D",
+  "icons": [
+    {
+      "src": "https://res.cloudinary.com/dkbahjqa6/image/upload/v1760208659/LOGO_CROCE_yzhmab.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "https://res.cloudinary.com/dkbahjqa6/image/upload/v1760208659/LOGO_CROCE_yzhmab.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    }
+  ]
+}
