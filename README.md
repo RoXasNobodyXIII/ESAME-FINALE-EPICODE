@@ -8,7 +8,3 @@ Se desideri maggiori dettagli tecnici o istruzioni passo‑passo, possiamo aggiu
 ## Tecnologie utilizzate (in breve)
 - **Backend**: Node.js con Express, database MongoDB, accesso con token (JWT), invio email (Nodemailer), caricamento immagini (Cloudinary).
 - **Frontend**: React con Vite, stile con Bootstrap, chiamate API con Axios, navigazione con React Router.
-
-## Struttura del progetto
-- **`BACKEND/`**: server e API.
-- **`FRONTEND/`**: interfaccia web.
